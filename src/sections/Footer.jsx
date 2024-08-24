@@ -1,9 +1,9 @@
 
 const Footer = () => {
   return (
-    <div>
-        Footer
-    </div>
+    <footer className="max-container">
+      <div></div>
+    </footer>
   )
 }
 
